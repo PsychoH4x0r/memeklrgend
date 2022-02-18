@@ -1,0 +1,80 @@
+
+
+
+<!-- bapakuheker@protonmail.com -->
+
+<html>
+<head>
+<title>H4ck3d By Unknown1337</title>
+<meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:title" content="PsychoH4x0r">
+<meta name="description" content="Security ? they say that just an illusion - ">
+<meta property="og:description" content="Security ? they say that just an illusion - ">
+<meta property="og:site_name" content="H4ck3d By Unknown1337">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://g.top4top.io/p_2173bkrft6.jpg">
+<meta name="copyright"content="Hacking">
+<meta name="theme-color" content="#000">
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+</head>
+<style type='text/css'>body,a:hover{cursor:url(http://cur.cursors-4u.net/symbols/sym-1/sym46.cur),progress!important;}</style>
+<body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
+<link rel="stylesheet" href="https://bit.ly/2UGCIC5">
+<body bgcolor=black text=white><center><br><br><br>
+<img src="https://media.giphy.com/media/l4FGF4DVYSeS5oIx2/source.gif" width=220 height=220><br><br><br>
+<font face=courier>Hacked by <font color=red class=wkwk><b>Unknown1337</b></font><br><font color=gray size=2><i><font class="title motto-shake">Security ? they say that just an illusion</i><br><br><small></font><font face=courier size=1 color=white><b>-=  AnonSec Team - LulzGhost Team   =-</b><br><br><font size=1 color=#383333>bapakuheker@protonmail.com</font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>ClickToSound<div class="footer-greetings">
+<div class="footer-greetings"><marquee>
+<font face=courier size=2><b>We Are : <i></b> Unknown45 - Fell - L4n4ng_Akir4 - Jeager - Mr.Grim - Unknown7 - SunD4y7 - El - Cubnetjr - Lars - UnknownGh05t - Mirei07 - Rai  RidhoHaxor - Elv1n4 - <font color=red class=wkwk><b>PsychoH4x0r</b></font> - AnonSec Team - LulzGhost Team </font>
+ -</i><font color=white></marquee>
+<script language=JavaScript>
+<!--
+ 
+//Disable right mouse click Script
+//By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
+//For full source code, visit http://www.dynamicdrive.com
+ 
+var message="what do you want to do ?";
+ 
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+ 
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+ 
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+ 
+document.oncontextmenu=new Function("alert(message);return false")
+ 
+// -->
+</script>
+<script>(function(c,a,d){var b=function(f,e){this.el=a.querySelectorAll(f)[0];this.config=e||{};this.lyric=e.lyric||"";this.newLyric="";this.showUpSpeed=e.showUpSpeed||0;this.flashSpeed=e.flashSpeed||0;this.flashTimeout=e.flashTimeout||0;this.showOut()};b.prototype={showOut:function(){var f=this,g=0,e,h="";if(f.flashSpeed){f.newLyric=e=f.replaceFun(f.lyric,f.lyric.split(""))}else{f.newLyric=e=f.lyric}if(f.showUpSpeed){var j=setInterval(function(){h+=e.split("")[g];g++;f.newLyric=h;f.el.innerHTML=h;f.el.dataset.text=h;if(f.lyric.split("").length===g){clearInterval(j);setTimeout(function(){f.flash(f.newLyric)},f.flashTimeout)}},f.showUpSpeed)}else{f.el.innerHTML=e;f.el.dataset.text=e;setTimeout(function(){f.flash(f.newLyric)},f.flashTimeout)}},replaceFun:function(f,e){return f.split("").map(function(h){var g=e.filter(function(j,i){return e.indexOf(j)==i});return h=g[Math.floor((Math.random()*g.length))]}).join("")},flash:function(){var f=this,e=f.lyric.split(""),h=f.newLyric.split(""),g=f.flashSpeed;var i=setInterval(function(){if(h.join("")!==e.join("")){for(var j in e){if(h[j]!==e[j]){var k=e.filter(function(m,l){return e.indexOf(m)==l});h[j]=k[Math.floor((Math.random()*k.length))];f.el.innerHTML=f.el.dataset.text=h.join("")}}}else{clearInterval(i);f.callback()}},g)},callback:function(){if(this.config.callback){this.config.callback()}}};if(typeof module==="object"&&typeof module.exports==="object"){module.exports=exports=b}else{if(typeof define==="function"&&define.amd){define(function(){return b})}else{if(typeof c==="object"){c.Motto=b}}}})(window,document);
+var motto = new Motto('.title', {
+lyric: 'Security ? they say that just an illusions.',
+showUpSpeed: 85,
+flashSpeed: 70,
+flashTimeout: 1000,
+callback: function () {
+}
+});
+</script>
+<style> .memeck { position: absolute; margin: auto; height: 50%; top: 0; bottom: 0; left: 0; right: 0; } </style> <body onclick="playAudio();" class=""><audio id="sec" __idm_id__="823202817"> 
+<source src="https://f.top4top.io/m_2173k16eo1.mp3" type="audio/mpeg"> 		</audio> <div class="memeck"> <script> 	var x = document.getElementById("sec"); 	function playAudio() { 	x.play(); 	} 	 	function myFunction() { 		 var element = document.body; element.classList.toggle("dark-mode"); } function changeImage() { if (document.getElementById("imgClickAndChange").src == "body") { document.getElementById("imgClickAndChange").src = "body"; } else { document.getElementById("imgClickAndChange").src = "body"; } } </script> <center><br><br><br><p></p><blink>
+#psycho
